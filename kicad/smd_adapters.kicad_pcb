@@ -2787,7 +2787,7 @@
 
   (footprint "greenpack_smd_adapters:mouse-bite-holes-half" (layer "F.Cu")
     (tstamp 31086da0-2b90-410c-9b3f-ec3d1e6fe52a)
-    (at 12.192 25.908 180)
+    (at 12.065 20.828 180)
     (attr through_hole)
     (fp_text reference "mouse-bite-2.54mm-slot" (at 0 -2 180) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
